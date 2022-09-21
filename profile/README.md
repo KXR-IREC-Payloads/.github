@@ -1,4 +1,6 @@
-## Welcome to the GitHub site for KXR IREC Payloads!👋
+## Welcome to Knights Experimental Rocketry!👋
+
+You must be a member to gain access to internal repositories.
 
 <!--
 
